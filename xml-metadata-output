@@ -1,0 +1,18 @@
+com.mycompany.appjava-maven1.0-SNAPSHOT1.0-SNAPSHOT20230423134633
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<metadata>
+<groupId>com.mycompany.app</groupId>
+<artifactId>java-maven</artifactId>
+<versioning>
+<latest>1.0-SNAPSHOT</latest>
+<versions>
+<version>1.0-SNAPSHOT</version>
+...
+</versions>
+<lastUpdated>20230423134633</lastUpdated>
+...
+</versioning>
+...
+</metadata>
+
+Access with organization name and private access token generated.
